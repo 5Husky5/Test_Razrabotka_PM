@@ -23,6 +23,7 @@ namespace Kr1
             double y2 = random.Next(minx, maxy + 1);
 
            
+            /// Длина отрезка
         }
     }
 }
